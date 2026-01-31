@@ -1,3 +1,1 @@
 # Go Essentials
-
-## Testing
